@@ -1,4 +1,4 @@
-# 基于Java-VUE-SpringBoot-MySQL的体检预约系统-毕业设计 
+# 基于Java-VUE-SpringBoot-MySQL的酒店管理系统-毕业设计 
 
 ------------
 
@@ -36,9 +36,10 @@
 
 ![类注释](https://www.skywalking.pro/download/images/meta/WX20230206-092916@2x.png "类注释")
 
-**2. 数据库字段注释注释**
+**2. 数据库字段注释**
 
-![类注释](https://www.skywalking.pro/download/images/meta/WX20230206-093511@2x.png "类注释")
+![数据库字段注释](https://www.skywalking.pro/download/images/meta/WX20230206-093511@2x.png "数据库字段注释")
+
 #### 项目特有优势
 1. 清晰的注释，每个方法，类，字段，都具备中文注释。
 2. 部署方便，作者编写了一键启动的脚本，可以让Java后端完美运行在主流服务器上。
